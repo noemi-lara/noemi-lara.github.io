@@ -1,6 +1,6 @@
 ---
-title: "Frank Hermosillo"
-image: "frank.jpg"
+title: "Noemí Lara Acono -  Mi Sitio Web"
+image: "noemi.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
